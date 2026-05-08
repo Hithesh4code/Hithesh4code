@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Hithesh4code/Hithesh4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m cur# 💫 About Me:
+# 💫 About Me:
 Passionate Full Stack Java Developer and Electronics & Communication Engineering student. Interested in web development, Java programming, and building innovative projects. Currently learning frontend, backend, SQL, and modern web technologies.<br>
 
 
@@ -19,6 +12,4 @@ Passionate Full Stack Java Developer and Electronics & Communication Engineering
 ---
 [![](https://komarev.com/ghpvc/?username=Hithesh4code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->rently working on ...
-.
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
